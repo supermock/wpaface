@@ -1,0 +1,23 @@
+{
+  "name": "wpaface",
+  "version": "1.0.0",
+  "description": "WPAFace makes a communication interface with wpa_supplicant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supermock/wpaface.git"
+  },
+  "author": "SuperMock",
+  "license": "MIT",
+  "dependencies": {
+    "async-lock": "^1.1.3",
+    "unix-dgram": "^2.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/supermock/wpaface/issues"
+  },
+  "homepage": "https://github.com/supermock/wpaface#readme"
+}
